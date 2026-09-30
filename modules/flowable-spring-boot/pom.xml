@@ -28,7 +28,7 @@
 
         <spring.framework.version>5.0.4.RELEASE</spring.framework.version>
         <spring.security.version>5.0.3.RELEASE</spring.security.version>
-        <jackson.version>2.9.4</jackson.version>
+        <jackson.version>2.18.10</jackson.version>
         <spring.boot.version>2.0.0.RELEASE</spring.boot.version>
 
     </properties>
